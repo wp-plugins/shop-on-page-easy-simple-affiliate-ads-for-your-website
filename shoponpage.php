@@ -1,14 +1,14 @@
 <?php
 /**
  * @package ShopOnPage
- * @version 1.0
+ * @version 1.0.2
  */
 /*
 Plugin Name: Shop On Page: Easy, simple affiliate ads for your website. 
 Plugin URI: http://www.shoponpage.com/plugins/wordpress/shoponpage.zip
 Description: Make money on your website. Adds a "Shop" button to your page. Make money on purchases. Free to sign up, easy to use.
 Author: TrulyShare
-Version: 1.0
+Version: 1.0.2
 Author URI: http://www.trulyshare.com
 */
 
