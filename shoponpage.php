@@ -15,7 +15,7 @@ Author URI: http://www.trulyshare.com
 function show_widget() {
 	$publisher_id = get_option('trulyshare_publisher_id');
 	if ($publisher_id > 0) {
-		echo "<script type = \"text/javascript\" src = \"http://127.0.0.1:3003/publishers/$publisher_id/widget.js\"> </script>";
+		echo "<script type = \"text/javascript\" src = \"http://www.trulyshare.com/publishers/$publisher_id/widget.js\"> </script>";
 	}
 }
 
